@@ -1,0 +1,17 @@
+a {
+  color: white;
+  float: right;
+  display: inline-grid;
+  margin-right: 30px;
+  border-radius: 25px;
+}
+header {
+  background-color: midnightblue;
+  height: 50px;
+}
+#img1 {
+  background-image: url("../images/img1.jpeg") ;
+  background-size: cover;
+  background-repeat:no-repeat
+  background-attachment: fixed;
+}
